@@ -74,6 +74,10 @@ input, select, textarea {
 
 /* Basic */
 
+.large-font {
+  font-size: 1.2em; /* 任意のサイズに調整してください */
+}
+
 	html {
 		box-sizing: border-box;
 	}
